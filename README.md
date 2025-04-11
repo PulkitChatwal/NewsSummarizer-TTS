@@ -28,7 +28,7 @@ Experience the live application on Hugging Face Spaces:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/news-analyzer.git
+git clone https://github.com/PulkitChatwal/NewsSummarizer-TTS.git
 cd news-analyzer
 pip install -r requirements.txt
 ```
